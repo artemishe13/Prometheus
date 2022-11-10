@@ -1,3 +1,4 @@
+#https://www.codewars.com/kata/5467e4d82edf8bbf40000155
 def descending_order(n)
     #arrN=n.to_s.scan(/\d/).map {|i| i.to_i}
     if n==0 
